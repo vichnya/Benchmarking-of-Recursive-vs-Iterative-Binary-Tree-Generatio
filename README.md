@@ -40,7 +40,7 @@
 ```text
 ├── v.01/
 │   ├── main.py
-│   ├── test_get_bin_tree.py
+│   ├── test.py
 │   └── ...
 │
 └── v.02/
