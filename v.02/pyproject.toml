@@ -3,7 +3,6 @@ name = "binary-tree-generation"
 version = "0.2.0"
 description = "Сравнение рекурсивного и итеративного подходов к генерации бинарного дерева"
 authors = "Victoria Chernysheva"
-readme = "README.md"
 
 [tool.poetry.dependencies]
 python = ">=3.8,<4.0"
